@@ -1,6 +1,8 @@
 # styleTransferOnImageUsingCNN
 We use a pre-trained model, VGGNet in our case for the python implementation of style transfer.
 
+![alt text](https://github.com/Ashutosh27ind/styleTransferOnImageUsingCNN/blob/main/rabbit%20style_transfer.PNG?raw=true)
+
 We will see the python implementation of style transfer. For the demonstration, let’s take the image of a rabbit as the content image and  splash of colours as the style image. You can, of course, use any set of images for your notebook.  
 
   
